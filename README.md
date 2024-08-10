@@ -3,8 +3,9 @@
 ### I'm Sanpitch Phuvapaisankit (Fifa)
 
 #### About Me
-- **BCC168**
-- **KU81 IT**
+- **BCC168** BANGKOK CHRISTIAN COLLEGE
+- **KU81 IT** Faculty of Liberal Arts & Science Kasetsart University Information Technology
+  
 
 #### My Projects
 - *Check out other projects in my repositories.*
@@ -23,6 +24,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🌐 Visit My Website
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=Internet-Explorer&logoColor=white)](https://effervescent-bavarois-3f74b3.netlify.app/)
 
 #### 📫 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/fifa.rock.90)
