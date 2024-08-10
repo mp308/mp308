@@ -1,19 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-My Name
-Sanpitch Phuvapaisankit
-Nick Name
-Fifa
+### I'm Sanpitch Phuvapaisankit (Fifa)
 
-BCC168 
-KU81 IT
+#### About Me
+- **BCC168**
+- **KU81 IT**
 
-### Other Project in my respo
+#### My Projects
+- *Check out other projects in my repositories.*
 
-𝖈𝖔𝖓𝖙𝖆𝖈𝖙
-
-[Link Facebook](https://www.facebook.com/fifa.rock.90)
-
-[Link Ig](https://www.instagram.com/mooyoungbongkancha/?hl=id)
-
-[Link YouTube](https://www.youtube.com/channel/UC3RbjgmcO_N-HTSRU2cP8Uw)
+#### 📫 Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/fifa.rock.90)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mooyoungbongkancha/?hl=id)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC3RbjgmcO_N-HTSRU2cP8Uw)
