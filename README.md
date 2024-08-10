@@ -6,6 +6,7 @@
 - **BCC168** BANGKOK CHRISTIAN COLLEGE
 - **KU81 IT** Faculty of Liberal Arts & Science Kasetsart University Information Technology
   
+### I am seeking a UX/UI and FrontEnd Intern Position 
 
 #### My Projects
 - *Check out other projects in my repositories.*
